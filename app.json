@@ -1,0 +1,22 @@
+{
+    "name": "v2-lab",
+    "description": "v2 lab",
+    "keywords": ["vvvv"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/wataly/v2-lab",
+    "repository": "https://github.com/wataly/v2-lab",
+    "stack": "container"
+}
